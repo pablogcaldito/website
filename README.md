@@ -4,7 +4,7 @@ This is the source code of my personal website.
 
 ## Technologies used
 
-Build with [Hugo](https://gohugo.io).
+Built with [Hugo](https://gohugo.io) static site generator.
 
 ## Usage
 
