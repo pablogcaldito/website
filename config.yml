@@ -36,7 +36,7 @@ params:
   # Social icons
   social: 
     - name: github
-      url: https://github.com/pablogcaldito
+      url: https://github.com/caldito
     - name: linkedin
       url: https://www.linkedin.com/in/caldito
     - name: twitter
