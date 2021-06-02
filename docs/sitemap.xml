@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://caldito.me/about/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldito.me/blog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldito.me/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldito.me/series/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldito.me/tags/</loc>
   </url>
-  
 </urlset>
