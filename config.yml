@@ -12,7 +12,7 @@ params:
   dateformShort: Jan 2
   dateformNum: "2006-01-02"
   dateformNumTime: "2006-01-02 15:04"
-  homeSubtitle: "I love building things with software and systems. Here you can learn about me, check my block and find my networks" # DevOps Engineer and CSE student based in Madrid.
+  homeSubtitle: "I love building things with software and systems." # Here you can learn about me, check my blog and find my networks" # DevOps Engineer and CSE student based in Madrid.
   # Links
   footerLeft: Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>
   footerRight: Hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a>
@@ -52,10 +52,10 @@ languages:
     copyright: '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
     readOtherPosts: "Read other posts"
 menu:
-  main:
-    - identifier: about
-      name: About
-      url: about/
-    - identifier: posts
-      name: Posts
-      url: posts/
+  main: []
+    #- identifier: about
+    #  name: About
+    #  url: about/
+    #- identifier: posts
+    #  name: Posts
+    #  url: posts/

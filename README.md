@@ -14,4 +14,4 @@ First clone the repo and go to its directory:
 
 You can serve it on ```localhost:1313``` by entering on your terminal the command ```hugo server```
 
-To build the static files by introducing ```hugo``` in your terminal. The output will be in the ```public``` directory.
+To build the static files by introducing ```hugo -d docs``` in your terminal. The output will be in the ```docs``` directory.
